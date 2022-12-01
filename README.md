@@ -1,15 +1,14 @@
 ### Hello! My name is Artur Bondarenko!
 
-I love computers, robots, development and technologies in general (as well as history, anthropology, economics, psycology, rally racing and trail running)
+I love computers, robots, development and technologies in general (as well as history, anthropology, economics, psychology, rally racing and trail running)
 
 
-I'm learning Java and PostgreSQL and can show you some [accomplished assignments](https://arirokk.github.io/programmingExercises/index.html) from the Coursera courses
+I'm learning Java and PostgreSQL and can show you some [accomplished assignments](https://arirokk.github.io/programmingExercises/index.html) from the Coursera courses.
 
-Links
+I can use HTML, CSS, JS, Java Core and PostgreSQL
 
-[Website](https://arirokk.github.io/)
 
-[Telegram](https://t.me/arirokk)
+[Website](https://arirokk.github.io/) | [Telegram](https://t.me/arirokk)
 <!--
 **Arirokk/Arirokk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

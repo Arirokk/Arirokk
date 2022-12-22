@@ -5,7 +5,7 @@ I love computers, robots, development and technologies in general (as well as hi
 
 I'm learning Java and can show you some [accomplished assignments](https://arirokk.github.io/programmingExercises/index.html) from the Coursera courses.
 
-I can use Java, Spring, SQL, JS, HTML, CSS and Docker
+I can use Java, Spring, SQL, Git, JS, HTML, CSS and Docker
 
 
 [Website](https://arirokk.github.io/) | [Telegram](https://t.me/arirokk)
